@@ -18,14 +18,14 @@ The victim’s identity is given more emphasis in my work. The audience sees a p
 I used socket programming to connect two computers. I recorded the IP addresses of both computers and selected a unique port number for each of them. The code is run through the terminal. Both computers have to be connected to the same WiFi router for this to work.
  
  
-### --- Kidnapped.py 
+### Kidnapped.py 
 This code file asks the user for their name. It then prints out the prompt that they have been kidnapped and an anonymous person that they know can save them if they guess who they are correctly.  The user can only send one word description of themselves to give hints. 
 Once that anonymous person makes the guess, one of two messages is printed. Correct, and that the user gets released, or incorrect and that user will be killed now. The user’s name and list of words that describe them are stored into a file. If the user has been killed, it states so. 
  
-### --- Savior.py
+### Savior.py
 This code prints the prompt to the user that one of the people they know has been kidnapped and only they can save them. They have only one guess. Once they enter START the victim will start sending them hints. Once the user makes the guess, the fate of the victim will be printed out. If the guess is correct, it will print that the user saved the victim’s life, and if incorrect that the victim will be killed. 
  
-### --- whoami.txt
+### whoami.txt
 This file stores all the data. I chose this name specifically, because that is what the victim has to think of. Who am I? What identifies me? What makes me unique and different from the people around me? Because they can only choose one word, they had to be selective. They had to look for their biggest identifiers, the most obvious yet unique. Under time pressure, they had to think fast, the first thing that pops up, the most meaningful things, the biggest things, the most special. 
  
 It is also interesting being the observer. Looking at what words the victim picked. Would they pick personality traits, hobbies, job or education, things they like, or things they own? Does that signify anything? I found this to be interesting to think about.
