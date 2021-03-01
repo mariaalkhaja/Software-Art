@@ -30,3 +30,8 @@ This file stores all the data. I chose this name specifically, because that is w
  
 It is also interesting being the observer. Looking at what words the victim picked. Would they pick personality traits, hobbies, job or education, things they like, or things they own? Does that signify anything? I found this to be interesting to think about.
 
+## Video 
+I consider the video, or my output, to be my artwork, and the victim and the savior are the artists. The victim drizzles the piece with their identity and the fortune of the piece is in the hands of the savior. 
+
+The video starts with a robotic sound describing the situation of the victim and the savior. To create that sound, I used gtts for text-to-speech conversion. Using a robotic sound added to the theme of anonymity and hidden identity. A photo of the victim is then displayed for a few seconds to give the audience an idea of the victims external identity (age, gender, race), then immediately after is the chat determining their fate and unveiling their internal identity. I used a time ticking sound effect that keeps going throughout the chat and increasingly gets faster creating tension and keeping the audience focused. 
+
