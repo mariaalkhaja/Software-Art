@@ -1,3 +1,4 @@
+## GPT-2 Short Story Generator
 ### How does your algorithm work? How do you generate the storyline?
 
 My algorithm works asking the user to choose a character name and a genre for the story. It then randomly chooses one of four opening sentences which I hardcoded. They are very general opening sentences that can be the start of any story.
